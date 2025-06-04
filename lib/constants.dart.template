@@ -1,0 +1,4 @@
+class Constants {
+  static const String apiBaseUrl = 'YOUR_API_BASE_URL_HERE';
+  // Add other constants as needed
+}
